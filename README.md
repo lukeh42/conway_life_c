@@ -4,8 +4,6 @@ Rules used from https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 Built from scratch.
 
-.exe is included but just the main.c file is needed.
-
 Headers used:
   - stdio.h
   - stdlib.h
